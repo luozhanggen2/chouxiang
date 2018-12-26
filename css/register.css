@@ -1,0 +1,137 @@
+*  { margin:0;padding:0;}
+#reg_bg{
+    width:100%;height:900px;
+    background:url(../img/register/body03.jpg)no-repeat;
+}
+#reg_bg>a{
+    color: #fff;
+    text-decoration: none;
+    margin-top:40px;
+    margin-left:100px;
+    position:absolute;
+}
+#reg_bg>img{
+    margin-top:80px;
+    margin-left:40%;
+}
+#d1{
+    width:760px;height:540px;
+    background:rgba(0,0,0,0.7);
+    margin-left:20%;
+    margin-top:2%;
+    position:relative;
+}
+#register_member>a{
+    font-size:20px;
+    color:#aaa;
+    text-decoration:none;
+}
+#register_member>a:hover{
+    color: #fff;
+}
+#register_member{
+    margin-left:90px;
+    margin-top:40px;
+}
+.form_input{
+    width:330px;
+    height:412px;
+   /* background: #faf;*/
+    margin-left:40px;
+    margin-top:30px;
+    cursor: pointer;
+    
+}
+.form_input>.put_four>input{
+    width:320px;
+    height:40px;
+    margin-top:10px;
+    font-size: 15px;
+    padding-left:5px;
+    cursor: pointer;
+}
+.put_vfc>input{
+    width:182px;
+    height:40px;
+    font-size:15px; 
+    padding-left:5px;
+    
+}
+ .put_vfc>img{
+    margin-left:2px;
+    margin-top:10px;
+} 
+.put_vfc>button{
+    width:122px;
+    height:40px;
+    font-size:15px;
+    margin-top:10px;
+    color:#3483BC;
+    border:0;
+    margin-left:9px;
+}
+.put_vfc>button:hover{
+    background: #125D93;
+    color:#fff;
+}
+.consent{
+    font-size:10px;
+    color: #fff;
+}
+.consent>a{
+    text-decoration:none;
+    color:#3B83CB;
+}
+.register_put>input{
+    width:329px;
+    height: 35px;
+    border:0;
+    border-radius: 2px;
+    background: #FF6600;
+    margin-top:10px;
+    color: #fff;
+    font-size:20px;
+    cursor: pointer;
+}
+.app_reserve>img{
+    margin-left:440px;
+    margin-top:37px;
+    position: absolute;
+}
+.footer_font{  
+    font-size:15px;   
+    margin-top:20px;
+    margin-left:40%;
+}
+.footer_font>a{
+    text-decoration:none;
+    color:#434343;
+    padding-left:12px ;
+}
+.footer_copyright{
+    font-size:15px;   
+    margin-top:10px;
+    color:#434343;
+   margin-left:-40px;
+}
+.footer_copyright>a{
+    text-decoration:none;
+    color:#434343;
+    padding-left:12px ;
+}
+.footer_img{
+    margin-top:30px;
+    
+}
+.footer_img>.footer_firstimg>img{
+    margin-left:-70px;
+    border:1px solid #aaa;
+}
+.footer_img>.footer_secondimg>img{
+    border:1px solid #aaa;
+    margin-left:30px;
+}
+.footer_img>.footer_lastimg>img{
+    border:1px solid #aaa;
+    margin-left:30px;
+}

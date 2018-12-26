@@ -1,0 +1,210 @@
+*{margin:0;padding:0;}
+.index_bgimg{
+    width:100%;
+    height:600px;
+    background-image: url("../img/index/201901091832236175.jpg");
+}
+.index_header{
+    width:100%;
+    height:60px;
+    background: rgba(0,0,0,0.4);
+    position: relative;
+}
+.index_header>img{
+    margin-left:60px;
+    margin-top:6px;
+}
+.index_header>a{
+    color: #fff;
+    text-decoration:none;
+}
+.index_header>.index_zi{
+    background: #FD8238;
+    margin-left:20px;
+    text-align: center;
+    line-height: 60px;
+    display:inline-block;
+    height: 60px;
+    width:58px;
+   position:absolute;
+}
+.index_header>.index_find{
+    margin-left:100px;
+    margin-top:19px;
+    position: absolute;
+}
+.index_header>.index_find：hover{
+    border-bottom: 2px solid #FD8238;
+}
+.index_header>.index_register{
+    margin-left:600px;
+}
+.index_header>.index_login{
+    margin-left:20px;  
+}
+.index_header>.index_btn{
+    width:120px;
+    height:25px;
+    background: #3D97E3;
+    border-radius:2px;
+    border:0 ;
+    margin-left:15px;
+    font-size: 15px;   
+}
+.index_header>.index_btn>a{
+    color: #fff;
+    text-decoration: none;
+}
+.search_box{
+    width:880px;
+    height:60px;
+    background: #fff;
+    margin-left:200px;   
+    margin-top:260px;
+    font-size:20px;
+    color: #5A5A5A;
+}
+.search_box>img:first-child{
+    margin-top:19px;
+    margin-left:20px;
+}
+.search_box>.date_img{
+    margin-left:60px;  
+}
+.search_box>.search_un{
+    margin-left:70px;
+}
+.search_box>.search_btn{
+    width:100px;
+    height:60px;
+    border:0;
+    background:#FD8238;
+    margin-left:880px;
+    margin-top:-46px;
+    font-size:20px;
+    color: #fff;
+    display: block;
+}
+.search_box>.search_btn:hover{
+    background:#D2892A;
+}
+.one_H{
+   margin:0 auto;
+   padding-top:40px;
+    color:#5A5A5A;
+    font-family: "Microsoft","yahei";
+    height:40px;
+    width:200px;
+}
+.homestay_img{
+    width:1200px;
+    height:420px;
+    margin:20px auto;
+}
+.homestay_img>ul>li a{
+    text-decoration:none;
+}
+.homestay_img>ul>li{
+    margin-top:20px;
+    float: left;   
+}
+.homestay_img>ul>li:first-child{
+    background-image: url("../img/index/sy1.c2a67b9.jpg");
+    width:280px;height:420px;
+    margin-left:15px;
+}
+.homestay_oneimg_font{
+    background:#0f0;
+    width:280px;height:90px;
+    text-align: center;
+    list-style: none;
+    color: #fff;
+}
+.homestay_oneimg_font>p:first-child{
+    font-size:20px;
+    margin-top:330px;
+}
+.homestay_img>ul>li:nth-child(2){
+    background-image: url("../img/index/sy2.37692a8.jpg");
+    width:280px;height:420px;
+    margin-left:15px;
+}
+.homestay_twoimg_font{
+    background:#FFB000;
+    width:280px;height:90px;
+    text-align: center;
+    list-style: none;
+    color: #fff;
+}
+.homestay_twoimg_font>p:first-child{
+    font-size:20px;
+    margin-top:330px;
+}
+.homestay_img>ul>li:nth-child(3){
+    background-image: url("../img/index/sy3.50a66e6.jpg");
+    width:280px;height:420px;
+    margin-left:15px;
+}
+.homestay_threeimg_font{
+    background:#36C48F;
+    width:280px;height:90px;
+    text-align: center;
+    list-style: none;
+    color: #fff;
+}
+.homestay_threeimg_font>p:first-child{
+    font-size:20px;
+    margin-top:330px;
+}
+.homestay_img>ul>li:last-child{
+    background-image: url("../img/index/sy4.3bcbca2.jpg");
+    width:280px;height:420px;
+    margin-left:15px;
+}
+.homestay_lastimg_font{
+    background:#404A54;
+    width:280px;height:90px;
+    text-align: center;
+    list-style: none;
+    color: #fff;
+}
+.homestay_lastimg_font>p:first-child{
+    font-size:20px;
+    margin-top:330px;
+}
+.two_H{
+    color:#5A5A5A;
+    font-family: "Microsoft","yahei";
+    width:200px;
+    height:40px;
+    margin:0 auto;
+    padding-top:40px;
+}
+#tenant_experience{
+    width:1200px;
+    background:#c1c1c1;
+    height:350px;
+    margin:0 auto;   
+}
+#tenant_experience>ul>li:first-child{
+    background-image:url("../img/index/201901101845463866.jpg");
+    width:380px;height:285px;
+    float:left;
+}
+#tenant_experience>ul>li:nth-child(2){
+    background-image:url("../img/index/201901101846568420.jpg");
+    width:380px;height:285px;
+    float:left;
+    margin-left:30px;
+}
+#tenant_experience>ul>li:last-child{
+    background-image:url("../img/index/201901101847574583.jpg");
+    width:380px;height:285px;
+    float:right;
+}
+#tenant_experience>ul>li>p{
+    font-size:20px;
+    color: #333;
+    margin-top:270px;
+}
+

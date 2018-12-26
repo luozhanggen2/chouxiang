@@ -1,0 +1,147 @@
+*{
+    margin:0;padding:0;
+}
+#login_bg{
+    height: 900px;
+    background-image: url(../img/register/body07.jpg);
+}
+#login_bg>a{
+    color: #fff;
+    text-decoration: none;
+    margin-top:40px;
+    margin-left:100px;
+    position:absolute;
+}
+#login_bg>img{
+    margin-top:80px;
+    margin-left:40%;
+}
+.login_way{
+    width:400px;height:390px;
+    background:rgba(0,0,0,0.7);
+    margin-left:20%;
+    margin-top:2%;
+    position:relative;
+}
+.login_way>.common_login{
+    font-size:20px;
+    color:#aaa;
+    text-decoration:none;
+    margin-top:40px;
+    margin-left:50px;
+    position:absolute;
+}
+.login_way>.phone_login{
+    font-size:20px;
+    color:#aaa;
+    text-decoration:none;
+    margin-top:40px;
+    margin-left:200px;
+    position:absolute;
+}
+.login_way>a:hover{
+    color: #fff;
+}
+.login_tel_number>input{
+    width:320px;
+    height: 38px;
+    font-size: 15px;
+    margin-top:100px;
+    margin-left:40px;
+    border: 0 solid #1781CB;
+}
+.login_vfc>input{
+    width:180px;
+    height:38px;
+    font-size:15px;
+    margin-top:10px;
+    margin-left:40px;
+    border: 0 solid #1781CB;
+}
+.login_vfc>.vfc_img>img{
+   margin-left:5px;
+    width:130px;height:38px;   
+}
+.login_dnm>input{
+    width:180px;
+    height:38px;
+    border: 0 solid #1781CB;
+    font-size:15px;
+    margin-top:15px;
+    margin-left:40px;
+}
+.login_dnm>button{
+    width:122px;
+    height:38px;
+    font-size:15px;
+    margin-top:10px;
+    color:#3483BC;
+    border:0;
+    margin-left:9px;
+}
+.login_dnm>button:hover{
+    background: #125D93;
+    color:#fff;
+}
+.save_timelong{
+    font-size: 12px;
+    margin-left:40px;
+    margin-top:20px;
+}
+.save_timelong>span{
+    color: #b4b4b4;
+}
+.save_timelong>a{
+    margin-left:125px;
+    color: #fff;
+    text-decoration: none;
+}
+.login_sbt>input{
+    width:320px;
+    height:38px;
+    border:0;
+    border-radius: 2px;
+    background: #FF6600;
+    margin-top:20px;
+    color: #fff;
+    font-size:20px;
+    cursor: pointer;
+    margin-left:40px;
+}
+.login_footer_font{  
+    font-size:15px;   
+    margin-top:20px;
+    margin-left:40%;
+}
+.login_footer_font>a{
+    text-decoration:none;
+    color:#434343;
+    padding-left:12px ;
+}
+.login_footer_copyright{
+    font-size:15px;   
+    margin-top:10px;
+    color:#434343;
+   margin-left:-40px;
+}
+.login_footer_copyright>a{
+    text-decoration:none;
+    color:#434343;
+    padding-left:12px ;
+}
+.login_footer_img{
+    margin-top:30px;
+    
+}
+.login_footer_img>.footer_firstimg>img{
+    margin-left:-70px;
+    border:1px solid #aaa;
+}
+.login_footer_img>.footer_secondimg>img{
+    border:1px solid #aaa;
+    margin-left:30px;
+}
+.login_footer_img>.footer_lastimg>img{
+    border:1px solid #aaa;
+    margin-left:30px;
+}
